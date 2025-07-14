@@ -7,7 +7,7 @@
 I'm a passionate developer who loves open source and building cool projects.
 
 - 🌱 I’m currently learning Computer Science
-- 👯 I’m looking for Website/Software Development
+- 👯 I’m looking for Website/Software Development internship placement
 - 📫 How to reach me: [darwishrushlan163@gmail.com]
 
 ### 🧑‍💻 Programming Languages
