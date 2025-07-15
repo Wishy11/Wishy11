@@ -26,6 +26,7 @@ I'm a passionate developer who loves open source and building cool projects.
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-black?style=flat-square&logo=bootstrap)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
 ---
 
